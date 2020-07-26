@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nomad_movie_app_2020/static/css/main.29ed1f51.chunk.css",
+    "main.js": "/nomad_movie_app_2020/static/js/main.8b10f731.chunk.js",
+    "main.js.map": "/nomad_movie_app_2020/static/js/main.8b10f731.chunk.js.map",
+    "runtime-main.js": "/nomad_movie_app_2020/static/js/runtime-main.dad7b0c5.js",
+    "runtime-main.js.map": "/nomad_movie_app_2020/static/js/runtime-main.dad7b0c5.js.map",
+    "static/js/2.35cad475.chunk.js": "/nomad_movie_app_2020/static/js/2.35cad475.chunk.js",
+    "static/js/2.35cad475.chunk.js.map": "/nomad_movie_app_2020/static/js/2.35cad475.chunk.js.map",
+    "index.html": "/nomad_movie_app_2020/index.html",
+    "precache-manifest.25a07a68ddf4ffcd0ec52fe1b0c48f1d.js": "/nomad_movie_app_2020/precache-manifest.25a07a68ddf4ffcd0ec52fe1b0c48f1d.js",
+    "service-worker.js": "/nomad_movie_app_2020/service-worker.js",
+    "static/css/main.29ed1f51.chunk.css.map": "/nomad_movie_app_2020/static/css/main.29ed1f51.chunk.css.map",
+    "static/js/2.35cad475.chunk.js.LICENSE.txt": "/nomad_movie_app_2020/static/js/2.35cad475.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad7b0c5.js",
+    "static/js/2.35cad475.chunk.js",
+    "static/css/main.29ed1f51.chunk.css",
+    "static/js/main.8b10f731.chunk.js"
+  ]
+}
