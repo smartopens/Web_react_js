@@ -2,10 +2,6 @@
 
 웹에 관해서, 그 중에서도 ReactJs에 대해서 공부하고 강의들을 수강한뒤, 최종 실습 파트 부분에서 만든 코드입니다.
 
-https://kimsmartblog.tistory.com/
-
-블로그 Web 파트 - ReactJS에 기능별로 정리되어있습니다.
-
 
 ## 강의 제목 및 출처
 https://nomadcoders.co/react-fundamentals
