@@ -44,8 +44,6 @@ Unmounting
 - Route간의 데이터 공유해서 사용
 
 
-### Reuslt
-
 ![image](https://user-images.githubusercontent.com/44837403/114273991-69099500-9a57-11eb-84fc-11ccfe403a94.png)
 
 
