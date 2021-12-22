@@ -12,13 +12,6 @@ Web front, backend Full stack Nomad 선생님
 2020-07-16 ~ 2020-07-27
 
 
-## 목차
-![image](https://user-images.githubusercontent.com/44837403/114272363-dc5bd880-9a50-11eb-885d-2e1dde62edba.png)
-![image](https://user-images.githubusercontent.com/44837403/114272370-e251b980-9a50-11eb-9fb0-4a7373bce72d.png)
-![image](https://user-images.githubusercontent.com/44837403/114272333-be8e7380-9a50-11eb-9698-7756f004c0ac.png)
-
-
-
 ## 프로그램 기능
 
 #### Components들을 만들고 동적으로 사용
