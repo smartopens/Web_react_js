@@ -27,6 +27,13 @@ Web front, backend Full stack Nomad
 
 - Class Component의 State 를 통해 데이터의 변화를 이용하는 기능
 
+
+- 비동기 통신, async - await 구조로 데이터를 받아온 뒤 원하는 형태의 데이터로 맞춰 사용
+
+- 파일들을 구조화, react-router-dom 을 이용한 Navigator 기능
+
+- Route간의 데이터 공유해서 사용
+
 ### Component Life Cycle
 
 https://reactjs.org/docs/react-component.html     
@@ -40,13 +47,6 @@ Mounting
 Unmounting    
 - componentDidUpdated (이벤트 실행 뒤에 발생함)   
 - componentWillUnmount(페이지떠나거나 component가 끝날때 발생함)
-
-- 비동기 통신, async - await 구조로 데이터를 받아온 뒤 원하는 형태의 데이터로 맞춰 사용
-
-- 파일들을 구조화, react-router-dom 을 이용한 Navigator 기능
-
-- Route간의 데이터 공유해서 사용
-
 
 ![image](https://user-images.githubusercontent.com/44837403/114273991-69099500-9a57-11eb-84fc-11ccfe403a94.png)
 
