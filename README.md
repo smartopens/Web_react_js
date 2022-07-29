@@ -7,7 +7,7 @@ https://reactjs.org/docs/react-component.html
 
 Web front, backend Full stack Nomad 
 
-### 목차
+### 구성
 
 ![image](https://user-images.githubusercontent.com/44837403/181672790-e2f1011a-20a9-43b9-8bda-d85cf5cb7acd.png)
 
