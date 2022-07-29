@@ -2,18 +2,14 @@
 
 ReactJs에 대해서 공부하고 실습코드들을 정리했습니다.    
 
-### 강의 제목 및 출처
-https://nomadcoders.co/react-fundamentals
+### Reference
+https://reactjs.org/docs/react-component.html  
 
 Web front, backend Full stack Nomad 
 
 ### 목차
 
-![image](https://user-images.githubusercontent.com/44837403/153229114-d22dbac2-d0fa-4300-a4eb-c436ec0b4675.png)   
-...
-
-
-(전체 목차 42/42)   
+![image](https://user-images.githubusercontent.com/44837403/181672790-e2f1011a-20a9-43b9-8bda-d85cf5cb7acd.png)
 
 ### 진행 기간
 2020-07-16 ~ 2020-07-27
@@ -37,21 +33,10 @@ Web front, backend Full stack Nomad
 
 - Route간의 데이터 공유해서 사용
 
-### Component Life Cycle
 
-https://reactjs.org/docs/react-component.html     
-위 링크에 잘 설명되어 있습니다.
+### View
 
-Mounting    
-- constructor    
-- render   
-- componentDidmount    
-
-Unmounting    
-- componentDidUpdated (이벤트 실행 뒤에 발생함)   
-- componentWillUnmount(페이지떠나거나 component가 끝날때 발생함)
-
-![image](https://user-images.githubusercontent.com/44837403/114273991-69099500-9a57-11eb-84fc-11ccfe403a94.png)
+![image](https://user-images.githubusercontent.com/44837403/181673004-c975b511-a7c2-4938-8a40-a13cd2590f50.png)
 
 
 
