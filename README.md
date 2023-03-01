@@ -1,6 +1,6 @@
 ## ReactJS
 
-ReactJs 공부 및 정리
+ReactJs 공부 및 실습
 
 ### Reference
 https://reactjs.org/docs/react-component.html  
