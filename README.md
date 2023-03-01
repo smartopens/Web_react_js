@@ -1,6 +1,6 @@
 ## ReactJS
 
-ReactJs에 대해서 공부하고 실습코드들을 정리했습니다.    
+ReactJs 공부 및 정리
 
 ### Reference
 https://reactjs.org/docs/react-component.html  
