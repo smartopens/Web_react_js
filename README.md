@@ -2,11 +2,6 @@
 
 ReactJs 공부 및 정리
 
-### Reference
-https://reactjs.org/docs/react-component.html  
-
-Web front, backend Full stack Nomad 
-
 ### 구성
 
 ![image](https://user-images.githubusercontent.com/44837403/181672790-e2f1011a-20a9-43b9-8bda-d85cf5cb7acd.png)
@@ -39,6 +34,10 @@ Web front, backend Full stack Nomad
 ![image](https://user-images.githubusercontent.com/44837403/181673004-c975b511-a7c2-4938-8a40-a13cd2590f50.png)
 
 
+### Reference
+https://reactjs.org/docs/react-component.html  
+
+Web front, backend Full stack Nomad 
 
 
 
