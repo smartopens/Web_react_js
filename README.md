@@ -2,9 +2,13 @@
 
 ReactJs 공부 및 정리
 
-### 구성
-
-![image](https://user-images.githubusercontent.com/44837403/181672790-e2f1011a-20a9-43b9-8bda-d85cf5cb7acd.png)
+### 구성    
+JSX   
+State   
+Props   
+Class Components    
+Data Fetching   
+Routing   
 
 ### 진행 기간
 2020-07-16 ~ 2020-07-27
@@ -35,7 +39,7 @@ ReactJs 공부 및 정리
 
 
 ### Reference
-https://reactjs.org/docs/react-component.html  
+https://nomadcoders.co/react-for-beginners    
 
 Web front, backend Full stack Nomad 
 
