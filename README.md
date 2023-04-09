@@ -11,7 +11,7 @@ Data Fetching
 Routing   
 
 ### 진행 기간
-2020-07-18 ~ 2020-07-30
+2020-07-18 ~ 2020-07-27
 
 ### Specification
 
