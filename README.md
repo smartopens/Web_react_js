@@ -3,15 +3,13 @@
 ReactJs 공부 및 정리
 
 ### 구성    
+
 JSX   
 State   
 Props   
 Class Components    
 Data Fetching   
 Routing   
-
-### 진행 기간
-2020-07-15 ~ 2020-07-27
 
 ### Specification
 
